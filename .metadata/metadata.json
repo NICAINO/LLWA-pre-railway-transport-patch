@@ -1,0 +1,20 @@
+{
+  "name": "LLWA pre-railway transport patch",
+  "id": "",
+  "version": "0.1",
+  "supported_game_version": "1.6.*",
+  "short_description": "Allows transport for plantations, mines etc. before unlocking railway technology",
+  "tags": ["LLWA","transport","patch"],
+  "relationships": [
+    {
+      "rel_type" : "dependency",
+      "id" : "",
+      "display_name" : "Locomotion: Land, Water, & Air", 
+      "resource_type" : "mod",
+      "version" : "2.2.0" 
+    }
+  ],
+  "game_custom_data": {
+    "multiplayer_synchronized": true
+  }
+}
