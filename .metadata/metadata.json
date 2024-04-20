@@ -15,6 +15,6 @@
     }
   ],
   "game_custom_data": {
-    "multiplayer_synchronized": true
+    "multiplayer_synchronized": false
   }
 }
